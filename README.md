@@ -2,6 +2,7 @@
  A Network Attack type classification on KDDC'99 dataset with Decision Tree
 
 EN
+
 A Network Attack type classification on KDDC'99 dataset with Decision Tree
 DİLAVER ŞAHİN
 
@@ -17,6 +18,7 @@ https://colab.research.google.com/drive/19KglSaCVA-e23D2RSUPcxltPH0xZGla2?usp=sh
 
 
 TR
+
 Karar Ağacı ile KDDC'99 veri seti üzerinde bir Ağ Saldırı türü sınıflandırma
 DİLAVER ŞAHİN
 
